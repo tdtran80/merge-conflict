@@ -7,3 +7,11 @@
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+ 
+ # My Skill 1
+ - skill: git skill 1
+   description: test 1
+   
+ # My skill 2
+ - skill: git skill 2
+  
